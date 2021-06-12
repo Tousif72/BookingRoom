@@ -1,0 +1,66 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.LagoonTech.bookingroom"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:7:5-43
+8        android:minSdkVersion="7"
+8-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:7:15-40
+9        android:targetSdkVersion="30" />
+9-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:7:5-43
+10
+11    <application
+11-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:8:5-32:19
+12        android:debuggable="true"
+13        android:icon="@drawable/icon"
+13-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:9:9-38
+14        android:label="@string/app_name" >
+14-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:10:9-41
+15        <activity
+15-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:11:9-20:20
+16            android:name="org.lagoontech.bookingroom.MainActivity"
+16-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:12:13-67
+17            android:label="@string/app_name"
+17-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:13:13-45
+18            android:screenOrientation="landscape"
+18-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:15:13-50
+19            android:theme="@style/CalendarTheme" >
+19-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:14:13-49
+20            <intent-filter>
+20-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:16:13-19:29
+21                <action android:name="android.intent.action.MAIN" />
+21-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:17:17-69
+21-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:17:25-66
+22
+23                <category android:name="android.intent.category.LAUNCHER" />
+23-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:18:17-77
+23-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:18:27-74
+24            </intent-filter>
+25        </activity>
+26        <activity
+26-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:21:9-23:57
+27            android:name="org.lagoontech.bookingroom.MeetingActivity"
+27-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:22:13-70
+28            android:label="@string/app_name" />
+28-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:23:13-45
+29        <activity
+29-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:24:9-27:61
+30            android:name="org.lagoontech.bookingroom.Screensaver"
+30-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:25:13-66
+31            android:label="@string/app_name"
+31-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:26:13-45
+32            android:theme="@style/CalendarTheme" />
+32-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:27:13-49
+33        <activity
+33-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:28:9-31:68
+34            android:name="org.lagoontech.bookingroom.AboutActivity"
+34-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:29:13-68
+35            android:label="About"
+35-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:30:13-34
+36            android:theme="@android:style/Theme.Dialog" />
+36-->/Users/lagoontech/Desktop/wallpaperApp/BookingRoom-master/app/src/main/AndroidManifest.xml:31:13-56
+37    </application>
+38
+39</manifest>

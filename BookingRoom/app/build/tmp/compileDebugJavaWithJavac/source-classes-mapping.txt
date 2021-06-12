@@ -1,0 +1,72 @@
+org/lagoontech/bookingroom/MeetingActivity.java
+ org.lagoontech.bookingroom.MeetingActivity
+ org.lagoontech.bookingroom.MeetingActivity$1
+ org.lagoontech.bookingroom.MeetingActivity$2
+ org.lagoontech.bookingroom.MeetingActivity$3
+ org.lagoontech.bookingroom.MeetingActivity$4
+ org.lagoontech.bookingroom.MeetingActivity$5
+ org.lagoontech.bookingroom.MeetingActivity$6
+ org.lagoontech.bookingroom.MeetingActivity$6$1
+ org.lagoontech.bookingroom.MeetingActivity$7
+ org.lagoontech.bookingroom.MeetingActivity$8
+ org.lagoontech.bookingroom.MeetingActivity$9
+ org.lagoontech.bookingroom.MeetingActivity$ActionEnum
+org/lagoontech/bookingroom/model/Meeting.java
+ org.lagoontech.bookingroom.model.Meeting
+org/lagoontech/bookingroom/model/db/DataBaseHelper.java
+ org.lagoontech.bookingroom.model.db.DataBaseHelper
+org/lagoontech/bookingroom/validation/Validator.java
+ org.lagoontech.bookingroom.validation.Validator
+org/lagoontech/bookingroom/view/ScreensaverView.java
+ org.lagoontech.bookingroom.view.ScreensaverView
+ org.lagoontech.bookingroom.view.ScreensaverView$Mover
+ org.lagoontech.bookingroom.view.ScreensaverView$Speed
+org/lagoontech/bookingroom/logic/MeetingInfo.java
+ org.lagoontech.bookingroom.logic.MeetingInfo
+org/lagoontech/bookingroom/logic/MeetingEventListener.java
+ org.lagoontech.bookingroom.logic.MeetingEventListener
+org/lagoontech/bookingroom/validation/ValidationException.java
+ org.lagoontech.bookingroom.validation.ValidationException
+org/lagoontech/bookingroom/logic/MeetingInfoValidator.java
+ org.lagoontech.bookingroom.logic.MeetingInfoValidator
+org/lagoontech/bookingroom/model/User.java
+ org.lagoontech.bookingroom.model.User
+org/lagoontech/bookingroom/validation/ObjectError.java
+ org.lagoontech.bookingroom.validation.ObjectError
+org/lagoontech/bookingroom/Screensaver.java
+ org.lagoontech.bookingroom.Screensaver
+org/lagoontech/bookingroom/logic/MeetingManager.java
+ org.lagoontech.bookingroom.logic.MeetingManager
+org/lagoontech/bookingroom/validation/FieldError.java
+ org.lagoontech.bookingroom.validation.FieldError
+org/lagoontech/bookingroom/BuildConfig.java
+ org.lagoontech.bookingroom.BuildConfig
+org/lagoontech/bookingroom/view/WeekView.java
+ org.lagoontech.bookingroom.view.WeekView
+ org.lagoontech.bookingroom.view.WeekView$1
+ org.lagoontech.bookingroom.view.WeekView$DayHeader
+org/lagoontech/bookingroom/view/MeetingGeometry.java
+ org.lagoontech.bookingroom.view.MeetingGeometry
+org/lagoontech/bookingroom/validation/ValidationResult.java
+ org.lagoontech.bookingroom.validation.ValidationResult
+org/lagoontech/bookingroom/logic/UserInfo.java
+ org.lagoontech.bookingroom.logic.UserInfo
+org/lagoontech/bookingroom/view/GestureListener.java
+ org.lagoontech.bookingroom.view.GestureListener
+org/lagoontech/bookingroom/MainActivity.java
+ org.lagoontech.bookingroom.MainActivity
+ org.lagoontech.bookingroom.MainActivity$1
+ org.lagoontech.bookingroom.MainActivity$2
+ org.lagoontech.bookingroom.MainActivity$ScreensaverLauncher
+org/lagoontech/bookingroom/AboutActivity.java
+ org.lagoontech.bookingroom.AboutActivity
+org/lagoontech/bookingroom/logic/UserManager.java
+ org.lagoontech.bookingroom.logic.UserManager
+org/lagoontech/bookingroom/model/db/UserDb.java
+ org.lagoontech.bookingroom.model.db.UserDb
+org/lagoontech/bookingroom/view/FlingEffect.java
+ org.lagoontech.bookingroom.view.FlingEffect
+org/lagoontech/bookingroom/view/Utils.java
+ org.lagoontech.bookingroom.view.Utils
+org/lagoontech/bookingroom/model/db/MeetingDb.java
+ org.lagoontech.bookingroom.model.db.MeetingDb
